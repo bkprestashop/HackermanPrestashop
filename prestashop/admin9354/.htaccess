@@ -1,0 +1,4 @@
+AuthName "authorized personnel only"
+AuthType Basic
+AuthUserFile "/var/www/html/prestashop/admin9354/.htpasswd"
+Require valid-user
